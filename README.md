@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Damilare Alao
 
-<!--
-**damilarealao/damilarealao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer focused on automation, backend tooling, and efficient technical workflows. I build reusable systems, clean data pipelines, and reliable utilities that support real-world products and processes.
 
-Here are some ideas to get you started:
+## Core Focus Areas
+- Python scripting and automation  
+- Web scraping and parsing  
+- Backend utilities and workflow tools  
+- Structured, maintainable codebases  
+- Data extraction and delivery systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Python** (requests, selectolax, asyncio, logging, argparse)
+- **Automation**: scripting, system tasks, workflow tools
+- **Web Scraping**: selectolax, lxml, custom parsers
+- **Data Handling**: CSV, JSON, Excel (openpyxl)
+- **Tools**: Git, Linux, VS Code
+
+## Current Goals
+- Expanding automation toolkits  
+- Building polished, production-ready Python utilities  
+- Delivering consistent, documented, reliable project outputs  
+
+## Contact
+- **GitHub**: [github.com/damilarealao](https://github.com/damilarealao)
+- Add LinkedIn or portfolio link when ready
