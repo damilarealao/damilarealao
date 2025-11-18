@@ -22,5 +22,5 @@ Python developer focused on automation, backend tooling, and efficient technical
 - Delivering consistent, documented, reliable project outputs  
 
 ## Contact
-- **GitHub**: [github.com/damilarealao](https://github.com/damilarealao)
+- **GitHub**: [github.com/damilarealao](https://github.com/github.com/damilarealao)
 - Add LinkedIn or portfolio link when ready
