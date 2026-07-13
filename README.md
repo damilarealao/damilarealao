@@ -1,6 +1,6 @@
 # Hi, I'm Damilare Alao
 
-Software engineer building full-stack products with a focus on **clean architecture, shipping fast, and solving real problems**. I'm the creator of [Signalry](https://github.com/damilarealao/signalry) — an enterprise email marketing platform built from scratch.
+Software engineer building full-stack products with a focus on **clean architecture, shipping fast, and solving real problems**.
 
 ## What I Do
 
@@ -17,13 +17,14 @@ Software engineer building full-stack products with a focus on **clean architect
 **Infrastructure & Data**
 - Prisma ORM, SQLite, PostgreSQL
 - Nodemailer, SMTP, email delivery systems
+- Paystack, VTU API integrations
 - Tailwind CSS, Lucide icons
 - Git, Linux, VS Code
 
 ## Things I've Built
 
-- **Signalry** — Full-stack email campaign platform with contact management, SMTP rotation, open/click tracking, analytics, and a desktop client
-- Automation tools and backend utilities for real-world workflows
+- **[Virel](https://virel.com.ng)** — Live VTU + Wallet platform with Paystack payment integration. Buy airtime, data, and pay bills. ([source](https://github.com/damilarealao/vtu-platform))
+- **[Signalry](https://github.com/damilarealao/signalry)** — Enterprise email campaign platform with contact management, SMTP rotation, open/click tracking, analytics, and a desktop client.
 
 ## What I Care About
 
