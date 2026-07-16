@@ -1,37 +1,175 @@
 # Hi, I'm Damilare Alao
 
-Software engineer building full-stack products with a focus on **clean architecture, shipping fast, and solving real problems**.
+Software Engineer passionate about building production-ready full-stack applications, AI-powered tools, and developer platforms. I enjoy turning complex ideas into reliable software that people can actually use.
 
-## What I Do
+---
 
-- Design and build **full-stack web applications** end to end — from database schema to polished UI
-- Write **production-grade code** with proper auth, security, error handling, and testing
-- Build tools that **actually work** — not prototypes, not tutorials, real products
+## 🚀 What I Build
 
-## Tech I Work With
+I design, develop, and deploy complete software products from idea to production.
 
-**Languages & Frameworks**
-- TypeScript / JavaScript — Next.js 15, React, Node.js, Electron
-- Python — scripting, automation, data pipelines
+My work includes:
 
-**Infrastructure & Data**
-- Prisma ORM, SQLite, PostgreSQL
-- Nodemailer, SMTP, email delivery systems
-- Paystack, VTU API integrations
-- Tailwind CSS, Lucide icons
-- Git, Linux, VS Code
+- Full-stack web applications
+- Desktop applications
+- AI-powered developer tools
+- Fintech platforms
+- Automation and productivity software
+- Security-focused applications
 
-## Things I've Built
+I care about writing software that's scalable, maintainable, and built with real users in mind.
 
-- **[Virel](https://virel.com.ng)** — Live VTU + Wallet platform with Paystack payment integration. Buy airtime, data, and pay bills. ([source](https://github.com/damilarealao/vtu-platform))
-- **[Signalry](https://github.com/damilarealao/signalry)** — Enterprise email campaign platform with contact management, SMTP rotation, open/click tracking, analytics, and a desktop client.
+---
 
-## What I Care About
+## 🛠 Tech Stack
 
-- Code that's **readable and maintainable**, not just functional
-- **Security done right** — no hardcoded secrets, proper auth, input validation
-- **Shipping** — features that ship beat features that don't
+### Languages
+
+- TypeScript
+- JavaScript
+- Python
+
+### Frameworks & Platforms
+
+- Next.js
+- React
+- Node.js
+- Electron
+
+### Databases & Infrastructure
+
+- PostgreSQL
+- SQLite
+- Prisma ORM
+- Supabase
+
+### APIs & Services
+
+- Paystack
+- VTU APIs
+- SMTP
+- Nodemailer
+
+### Tools
+
+- Git
+- Linux
+- VS Code
+- Tailwind CSS
+
+---
+
+# Featured Projects
+
+## Virel
+
+**Production-ready VTU & Utility Payment Platform**
+
+A complete fintech platform that enables users to:
+
+- Buy airtime and data
+- Pay electricity bills
+- Purchase cable TV subscriptions
+- Fund wallets securely
+- Manage transactions
+
+**Tech**
+Next.js • Django • PostgreSQL • Paystack • Supabase
+
+🌐 https://virel.com.ng
+
+---
+
+## Signalry
+
+**Enterprise Email Marketing Platform**
+
+Desktop application built with Electron and Next.js featuring:
+
+- Campaign management
+- Contact management
+- SMTP rotation
+- Open & click tracking
+- Analytics dashboard
+- Email deliverability tools
+- Monitoring and reporting
+
+**Tech**
+Electron • Next.js • Prisma • SQLite
+
+---
+
+## CodeSentinel
+
+**AI-Powered Security Auditing Platform**
+
+An intelligent security platform designed to help developers identify, prioritize, and remediate security vulnerabilities through both source code and live website analysis.
+
+Focus areas include:
+
+- Source code auditing
+- Live website scanning
+- AI-generated remediation
+- Risk prioritization
+- Security reporting
+
+---
+
+## EduSage
+
+**AI Study Assistant**
+
+Mobile application that transforms study materials into:
+
+- Summaries
+- Flashcards
+- Quizzes
+- Glossaries
+
+Powered by Llama 3.1 through Hugging Face Inference.
+
+---
+
+## Smart Anime Organizer
+
+**AI-Powered Media Organizer**
+
+Automatically identifies, renames, merges, and organizes anime libraries using AniList and AI.
+
+Features include:
+
+- Intelligent anime identification
+- Duplicate detection
+- Subtitle recovery
+- Smart file organization
+- AI-assisted matching
+
+---
+
+## Engineering Principles
+
+- Build products, not tutorials.
+- Prioritize maintainability over cleverness.
+- Security is part of the design, not an afterthought.
+- Ship early, improve continuously.
+- Solve problems that people actually have.
+
+---
+
+## Currently Exploring
+
+- AI-assisted software engineering
+- Application security
+- Developer tooling
+- Automation
+- Product architecture
+
+---
 
 ## Contact
 
-- **GitHub**: [github.com/damilarealao](https://github.com/damilarealao)
+GitHub
+https://github.com/damilarealao
+
+Email
+damilarealao29@gmail.com
